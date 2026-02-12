@@ -1,0 +1,13 @@
+https://bpm-download.imtxwy.com/jpko_cbt/release_1.8/1.0.35696.113/patches/StarASIA_Data/boot.config.hdiff?md5=21f51cde91922d6b5a1a147266824f56
+https://bpm-download.imtxwy.com/jpko_cbt/release_1.8/1.0.35696.113/patches/StarASIA_Data/globalgamemanagers.hdiff?md5=d1f14d887bdf867c1fe5d240d651fc93
+https://bpm-download.imtxwy.com/jpko_cbt/release_1.8/1.0.35696.113/patches/StarASIA_Data/resources.assets.hdiff?md5=404202dfba338cdfbbbf6bbfeb206eae
+https://bpm-download.imtxwy.com/jpko_cbt/release_1.8/1.0.35696.113/patches/StarASIA_Data/Plugins/x86_64/lib_burst_generated.dll.hdiff?md5=da4d91b0737d1c4b4bd20ba1f3fc46cf
+https://bpm-download.imtxwy.com/jpko_cbt/release_1.8/1.0.35696.113/patches/GameAssembly.dll.hdiff?md5=794cb1c8a2f1be9eecf819c723d53578
+https://bpm-download.imtxwy.com/jpko_cbt/release_1.8/1.0.35696.113/patches/StarASIA_Data/StreamingAssets/container/resources.meta3.hdiff?md5=8579c74eefa4cc56942b2b4a1666c7cd
+https://bpm-download.imtxwy.com/jpko_cbt/release_1.8/1.0.35696.113/patches/StarASIA_Data/StreamingAssets/container/Patch/1505095828.bundle.hdiff?md5=4ea89b069b919410c41b4bb3d67c338c
+https://bpm-download.imtxwy.com/jpko_cbt/release_1.8/1.0.35696.113/patches/StarASIA_Data/StreamingAssets/container/Patch/1775301618.bytes.hdiff?md5=f07583bccbb4fc57679863edc1d2fdca
+https://bpm-download.imtxwy.com/jpko_cbt/release_1.8/1.0.35696.113/patches/StarASIA_Data/StreamingAssets/container/Patch/2631616174.bundle.hdiff?md5=d60457b8588c0c9a2091327eac3ef925
+https://bpm-download.imtxwy.com/jpko_cbt/release_1.8/1.0.35696.113/patches/StarASIA_Data/StreamingAssets/container/Patch/3528803005.bytes.hdiff?md5=7d2cd6f2d072e14f416a04f8d16903d4
+https://bpm-download.imtxwy.com/jpko_cbt/release_1.8/1.0.35696.113/patches/StarASIA_Data/StreamingAssets/container/Patch/3665659468.bundle.hdiff?md5=a9e8a168abe1206f8dd6b5ab3e4b03b8
+https://bpm-download.imtxwy.com/jpko_cbt/release_1.8/1.0.35696.113/patches/StarASIA_Data/StreamingAssets/container/Patch/404735466.bundle.hdiff?md5=4ec400ee31c96f88bb019912c18247cd
+https://bpm-download.imtxwy.com/jpko_cbt/release_1.8/1.0.35696.113/patches/StarASIA_Data/StreamingAssets/container/Patch/4283658097.bytes.hdiff?md5=6f669602f64ad54bce9bb83c8f985b26

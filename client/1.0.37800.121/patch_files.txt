@@ -1,0 +1,8 @@
+https://bpm-download.imtxwy.com/jpko_cbt/release_2.11/1.0.37800.121/patches/StarASIA_Data/boot.config.hdiff?md5=376f33422262346c5349d58d7054fd66
+https://bpm-download.imtxwy.com/jpko_cbt/release_2.11/1.0.37800.121/patches/files.meta3.hdiff?md5=ff4a02babecbe1483ccba10f0a519be1
+https://bpm-download.imtxwy.com/jpko_cbt/release_2.11/1.0.37800.121/patches/StarASIA_Data/globalgamemanagers.hdiff?md5=e0bea42f8c4be5b8637baa9534889f56
+https://bpm-download.imtxwy.com/jpko_cbt/release_2.11/1.0.37800.121/patches/StarASIA_Data/resources.assets.hdiff?md5=e8e10e922649ac21c3145844b64f21d4
+https://bpm-download.imtxwy.com/jpko_cbt/release_2.11/1.0.37800.121/patches/StarASIA_Data/il2cpp_data/Metadata/global-metadata.dat.hdiff?md5=875c299a23399eaf64a88cb10a496b00
+https://bpm-download.imtxwy.com/jpko_cbt/release_2.11/1.0.37800.121/patches/StarASIA_Data/Plugins/x86_64/lib_burst_generated.dll.hdiff?md5=f0b12006ea0c0873da96ced134413645
+https://bpm-download.imtxwy.com/jpko_cbt/release_2.11/1.0.37800.121/patches/GameAssembly.dll.hdiff?md5=51f815ae28a14b8e40cd4a11eb09650c
+https://bpm-download.imtxwy.com/jpko_cbt/release_2.11/1.0.37800.121/patches/StarASIA_Data/StreamingAssets/container/resources.meta3.hdiff?md5=b607a30b1bc1ea4ce564ac494c09f3f3
